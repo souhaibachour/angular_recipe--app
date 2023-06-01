@@ -1,6 +1,16 @@
-# ProjectSouhaib
+# Recipes & Shopping List Manager
+
+Made a Single-Page Web-Application to deal with various recipes and shopping lists side by side, implementing Javascript Framework by Google 'Angular' and Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
+
+## DescriThe problem Recipes & Shopping List Manager solves
+
+It can store and manage varieties of recipes made by users.
+Users can fetch any of their recipes at any time.
+They can edit it as per their choice and taste and update the recipe.
+Also, Recipes are connected to the Shopping list manager which runs side by side of recipes and updates the ingredients simultaneously.
+Easy to use and simply designed UI.
 
 ## Development server
 
