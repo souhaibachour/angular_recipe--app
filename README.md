@@ -4,7 +4,7 @@ Made a Single-Page Web-Application to deal with various recipes and shopping lis
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
-## DescriThe problem Recipes & Shopping List Manager solves
+## The problem Recipes & Shopping List Manager solves
 
 It can store and manage varieties of recipes made by users.
 Users can fetch any of their recipes at any time.
