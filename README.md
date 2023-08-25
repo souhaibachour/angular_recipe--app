@@ -1,6 +1,6 @@
 # Recipes & Shopping List Manager
 
-Made a Single-Page Web-Application to deal with various recipes and shopping lists side by side, implementing Javascript Framework by Google 'Angular' and Angular
+Made a Single-Page Web-Application to deal with various recipes and shopping lists side by side, implementing TypeScript Framework by Google 'Angular'.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
